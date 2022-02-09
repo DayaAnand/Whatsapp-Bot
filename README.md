@@ -11,7 +11,9 @@ This repository contains two Whatsapp Bots
 
 
 **Whatsapp Bot 1:**
-if we send "cat" as the message in Whatsapp, Twillio return us with the picture of the cat along with a catchy quote.
+If we send "cat" as the message in Whatsapp, Twillio return us with the picture of the cat along with a catchy quote.
 
 **Whatapp Bot 2:**
 If we send any "text, song name or video name", then it searches in YouTube using API and returns us with the first link in YouTube
+
+step-by-step procedure for creating a Whatsapp Bot is given as a pdf file.
