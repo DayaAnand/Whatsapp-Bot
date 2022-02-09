@@ -1,5 +1,5 @@
 # Whatsapp-Bot
-This repository contains two whatsapp bots 
+This repository contains two Whatsapp Bots 
 
 **Requirements:**
 1.	Python environment.
