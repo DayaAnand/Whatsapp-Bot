@@ -16,4 +16,4 @@ If we send "cat" as the message in Whatsapp, Twilio return us with the picture o
 **Whatapp Bot 2:**
 If we send any "text, song name or video name", then it searches in YouTube using API and returns us with the first link in YouTube
 
-step-by-step procedure for creating a Whatsapp Bot is given as a pdf file.
+**Step-by-step procedure for creating a Whatsapp Bot is given as a pdf file.**
