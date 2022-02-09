@@ -6,7 +6,7 @@ This repository contains two whatsapp bots
 2.	Download all necessary package – flask, requests, twilio.
 3.	Ngrok – download it (Used for converting the flask to an URL which communicates with twilio )
 4.	Ngrok and twilio account.
-5.	Whatsapp (everyone has it).
+5.	Whatsapp (everyone might have it).
 6.	Third-party API to fetch information.
 
 
